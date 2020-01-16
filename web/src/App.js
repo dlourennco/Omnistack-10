@@ -35,7 +35,55 @@ function App() {
         </form>
       </aside>
       <main>
+      <ul>
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars1.githubusercontent.com/u/32413509?s=400&v=4" alt="David Lima"></img>
+              <div className="user info">
+                <strong>David Lima</strong>
+                <span>ReactJS, ReactNative, Node.js</span>
+              </div>
+            </header>
+            <p>Student and code lover</p>
+            <a href="https://github.com/dlourennco">Acessar perfil no Github</a>
+          </li>
+          
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars1.githubusercontent.com/u/32413509?s=400&v=4" alt="David Lima"></img>
+              <div className="user info">
+                <strong>David Lima</strong>
+                <span>ReactJS, ReactNative, Node.js</span>
+              </div>
+            </header>
+            <p>Student and code lover</p>
+            <a href="https://github.com/dlourennco">Acessar perfil no Github</a>
+          </li>
 
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars1.githubusercontent.com/u/32413509?s=400&v=4" alt="David Lima"></img>
+              <div className="user info">
+                <strong>David Lima</strong>
+                <span>ReactJS, ReactNative, Node.js</span>
+              </div>
+            </header>
+            <p>Student and code lover</p>
+            <a href="https://github.com/dlourennco">Acessar perfil no Github</a>
+          </li>
+
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars1.githubusercontent.com/u/32413509?s=400&v=4" alt="David Lima"></img>
+              <div className="user info">
+                <strong>David Lima</strong>
+                <span>ReactJS, ReactNative, Node.js</span>
+              </div>
+            </header>
+            <p>Student and code lover</p>
+            <a href="https://github.com/dlourennco">Acessar perfil no Github</a>
+          </li>
+        </ul>
       </main>
     </div>
   );

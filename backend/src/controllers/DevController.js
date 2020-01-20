@@ -38,7 +38,7 @@ module.exports = {
                 { latitude, longitude },
                 techsArray, 
             )
-            sendMesasge(sendSocketMessageTo, 'new-dev', dev)
+            sendMessage(sendSocketMessageTo, 'new-dev', dev)
         }
         return res.json(dev)
     }

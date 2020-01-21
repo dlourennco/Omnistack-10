@@ -1,5 +1,14 @@
 # DevRadar - Omnistack 10
 O DevRadar consiste em uma aplicação web que te ajuda a localizar desenvolvedores próximos que utilizam a mesma linguagem que você.
+
+### Tecnologias 
+#### Backend
+* Node.js
+  * Express
+  * Axios
+#### Frontend
+* React
+* ReactNative
 ### Interface Web
 Na interface web, fazemos o cadastro dos desenvolvedores. Informamos o usuário do github, e as tecnologias que o dev utiliza e/ou tem interesse. A geolocalização é obtida automaticamente pelo navegador. Também é exibida a listagem de todos os usuários cadastrados com um link de acesso para seus respectivos perfis.
 
